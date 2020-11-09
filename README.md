@@ -1,3 +1,3 @@
-# tf-homework-2020
+# IANNWTF homework folder
 
 Group 8: Johanna Linkemeyer, Clara Schier, Marisa Wodrich
